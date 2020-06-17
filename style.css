@@ -1,0 +1,42 @@
+h1, p {
+    font-style: sans-serif;
+    text-align: center;
+    width: 50;
+    padding: 20px;
+}
+
+header {
+    font-style: sans-serif;
+    text-align: right;
+    float: right;
+    padding: 20px;
+}
+
+#count {
+    float:right;
+}
+
+.hide {
+    display: none;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
+#startScreen, #question-container, body {
+    background-color: lightblue;
+}
+
+html {
+    background-color: lightgray;
+}
+
+body {
+    padding: 20px;
+}
